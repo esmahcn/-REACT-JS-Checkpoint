@@ -28,7 +28,7 @@ export default function App() {
           <Row>
             <Col md={4}>
               <Card>
-                <Card.Img variant="top" src="https://via.placeholder.com/300x150" />
+                <Card.Img variant="top" src="public\img\photo-1506744038136-46273834b3fb.avif" />
                 <Card.Body>
                   <Card.Title>Card 1</Card.Title>
                   <Card.Text>This is the first card.</Card.Text>
@@ -37,7 +37,7 @@ export default function App() {
             </Col>
             <Col md={4}>
               <Card>
-                <Card.Img variant="top" src="https://via.placeholder.com/300x150" />
+                <Card.Img variant="top" src="public\img\photo-1494526585095-c41746248156.avif" />
                 <Card.Body>
                   <Card.Title>Card 2</Card.Title>
                   <Card.Text>This is the second card.</Card.Text>
@@ -46,7 +46,7 @@ export default function App() {
             </Col>
             <Col md={4}>
               <Card>
-                <Card.Img variant="top" src="https://via.placeholder.com/300x150" />
+                <Card.Img variant="top" src="public\img\photo-1500534623283-312aade485b7.avif0" />
                 <Card.Body>
                   <Card.Title>Card 3</Card.Title>
                   <Card.Text>This is the third card.</Card.Text>
